@@ -1,0 +1,23 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  LMIs for designing an FTS controller for the mass-spring-damper example model
+  Model
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: João Angelo
+    family-names: Ferres Brogin
+    email: ferres.brogin@unesp.br
+    affiliation: São Paulo State University
+    orcid: 'https://orcid.org/0000-0002-1266-5902'
+identifiers:
+  - type: url
+    value: 'https://github.com/GMSINT/Epilepsy-Dynamics-Control/tree/main/Epileptor-State-Observer'
+repository-code: 'https://github.com/GMSINT/Epilepsy-Dynamics-Control/tree/main/Epileptor-State-Observer'
+license: CC-BY-NC-ND-4.0
+date-released: '2024-02-15'
